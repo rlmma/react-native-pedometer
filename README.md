@@ -5,7 +5,7 @@ react native module to count steps
 ## Installation
 
 ```sh
-npm install react-native-pedometer
+npm install react-native-pedometer-ios-android
 ```
 
 ## Usage

@@ -1,7 +1,7 @@
 {
-  "name": "react-native-pedometer",
+  "name": "react-native-pedometer-ios-android",
   "version": "0.1.0",
-  "description": "react native module to count steps",
+  "description": "react native module for step counting on Android and IOS",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/src/index.d.ts",
