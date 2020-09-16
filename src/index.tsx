@@ -1,7 +1,9 @@
 import { NativeModules } from 'react-native';
 
 type PedometerType = {
-  multiply(a: number, b: number): Promise<number>;
+  isSupported(): Promise<boolean>;
+  startStepCounter(): any;
+  stopStepCounter(): any;
 };
 
 const { Pedometer } = NativeModules;
